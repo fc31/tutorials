@@ -1,3 +1,3 @@
 # tutorials
 
-I ve just create my first branch !
+I ve just created my first branch !
